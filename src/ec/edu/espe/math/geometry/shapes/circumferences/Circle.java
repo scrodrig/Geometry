@@ -1,4 +1,4 @@
-package ec.edu.espe.math.geometry.circumferences;
+package ec.edu.espe.math.geometry.shapes.circumferences;
 
 /**
  * Created by SchubertDavidRodriguez on 9/20/16.

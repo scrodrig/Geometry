@@ -1,11 +1,11 @@
-package ec.edu.espe.math.geometry.quadrilaterals;
+package ec.edu.espe.math.geometry.shapes.quadrilaterals;
 
 /**
  * Created by SchubertDavidRodriguez on 9/19/16.
  */
-public class Square extends Quadrilateal {
+public class Square extends Quadrilateral {
 
-    private Float side;
+    protected Float side;
 
 
     public Square(Float side) {

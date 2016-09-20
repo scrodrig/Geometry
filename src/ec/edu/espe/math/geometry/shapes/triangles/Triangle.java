@@ -1,11 +1,11 @@
-package ec.edu.espe.math.geometry.triangles;
+package ec.edu.espe.math.geometry.shapes.triangles;
 
-import ec.edu.espe.math.geometry.Shape;
+import ec.edu.espe.math.geometry.shapes.ShapeInterface;
 
 /**
  * Created by SchubertDavidRodriguez on 9/20/16.
  */
-public abstract class Triangle extends Shape {
+public abstract class Triangle implements ShapeInterface {
 
     protected Float sideOne;
     protected Float sideTwo;

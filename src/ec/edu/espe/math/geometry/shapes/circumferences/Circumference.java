@@ -1,11 +1,11 @@
-package ec.edu.espe.math.geometry.circumferences;
+package ec.edu.espe.math.geometry.shapes.circumferences;
 
-import ec.edu.espe.math.geometry.Shape;
+import ec.edu.espe.math.geometry.shapes.ShapeInterface;
 
 /**
  * Created by SchubertDavidRodriguez on 9/20/16.
  */
-public abstract class Circumference extends Shape{
+public abstract class Circumference implements ShapeInterface {
 
     protected Float radio;
 

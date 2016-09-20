@@ -1,10 +1,10 @@
-package ec.edu.espe.math.geometry.quadrilaterals;
+package ec.edu.espe.math.geometry.shapes.quadrilaterals;
 
 
 /**
  * Created by SchubertDavidRodriguez on 9/19/16.
  */
-public class Rhombus extends Quadrilateal {
+public class Rhombus extends Quadrilateral {
 
     private Float smallDiagonal;
 

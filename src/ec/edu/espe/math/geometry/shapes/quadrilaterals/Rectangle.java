@@ -1,9 +1,9 @@
-package ec.edu.espe.math.geometry.quadrilaterals;
+package ec.edu.espe.math.geometry.shapes.quadrilaterals;
 
 /**
  * Created by SchubertDavidRodriguez on 9/19/16.
  */
-public class Rectangle extends Quadrilateal {
+public class Rectangle extends Quadrilateral {
 
     private Float base;
 

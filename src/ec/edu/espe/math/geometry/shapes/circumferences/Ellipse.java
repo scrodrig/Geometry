@@ -1,11 +1,11 @@
-package ec.edu.espe.math.geometry.circumferences;
+package ec.edu.espe.math.geometry.shapes.circumferences;
 
 /**
  * Created by SchubertDavidRodriguez on 9/20/16.
  */
-public class Ellipse extends   Circumference {
+public class Ellipse extends  Circumference {
 
-    private Float radioTwo;
+    protected Float radioTwo;
 
     public Ellipse(Float radio, Float radioTwo) {
         super(radio);
